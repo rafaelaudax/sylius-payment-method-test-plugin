@@ -1,0 +1,8 @@
+audax:
+  payu_plugin:
+    payment_method_type_plugin:
+      token:
+        not_blank: Token must be filled in
+        length: Token must be 32 characters
+      email:
+        not_blank: E-mail must be filled in

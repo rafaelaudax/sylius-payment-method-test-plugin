@@ -1,0 +1,8 @@
+audax:
+  payu_plugin:
+    payment_method_type_plugin:
+      token:
+        not_blank: Token deve ser preenchido
+        length: Token deve ter 32 caracteres
+      email:
+        not_blank: Email deve ser preenchido

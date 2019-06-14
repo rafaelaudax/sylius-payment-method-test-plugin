@@ -1,0 +1,9 @@
+audax:
+  payment_method_type_plugin:
+    environment: Environment
+    secure: Production
+    sandbox: Test
+    token: Seller Token
+    email: Seller Email
+    log: Records logs
+    log_path: Storage location

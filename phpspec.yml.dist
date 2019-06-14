@@ -1,0 +1,4 @@
+suites:
+    main:
+        namespace: Audax\SyliusPaymentMethodTestPlugin
+        psr4_prefix: Audax\SyliusPaymentMethodTestPlugin
